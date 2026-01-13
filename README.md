@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Netflix" src="https://github.com/user-attachments/assets/292725ba-8fce-4c34-ac18-80dda53ff81a" />
+
 # 🎬 Netflix Data Analysis Project
 
 **Exploratory Data Analysis (EDA) of Netflix’s global catalog using Python**, uncovering genre trends, regional preferences, and actionable insights for content strategy.
